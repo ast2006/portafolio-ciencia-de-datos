@@ -2,8 +2,6 @@ Bienvenida/o a mi portafolio profesional.
 Soy **Astrid**, estudiante de **Ingeniería en Ciencia de Datos**.  
 Aquí documento mis avances, prácticas, proyectos y aprendizajes conforme progreso en mi formación universitaria.
 
----
-
 ## 📁 Estructura del repositorio
 
 📂 **01_Python_básico**  
@@ -24,8 +22,6 @@ Mini–proyectos de manipulación de datos, visualización, limpieza y análisis
 📂 **99_Recursos**  
 Apuntes, PDFs, imágenes, plantillas y herramientas de apoyo.
 
----
-
 ## 📊 Proyectos destacados (próximamente)
 
 Aquí iré agregando mis primeros proyectos profesionales:
@@ -36,8 +32,6 @@ Aquí iré agregando mis primeros proyectos profesionales:
 - 🔹 Modelos predictivos iniciales
 - 🔹 Proyectos finales de semestre
 
----
-
 ## 🛠 Tecnologías que manejo
 
 - Python (básico → intermedio en progreso)  
@@ -46,8 +40,6 @@ Aquí iré agregando mis primeros proyectos profesionales:
 - Numpy, Pandas, Matplotlib (próximamente)  
 - Markdown  
 - Herramientas digitales académicas
-
----
 
 ## 🎯 Objetivo del portafolio
 
@@ -58,8 +50,6 @@ Este portafolio existe para:
 - Mantener un registro organizado y público de mis trabajos  
 - Crear mi marca personal desde el primer semestre  
 - Tener una base real para futuros proyectos más avanzados
-
----
 
 ## 📬 Contacto
 
